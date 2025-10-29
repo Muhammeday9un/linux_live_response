@@ -29,7 +29,7 @@ The output is generated in **HTML format**, containing comprehensive live respon
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/linux-live-response.git
+   git clone https://github.com/Muhammeday9un/linux_live_response.git
    cd linux-live-response
 Make the script executable:
 
